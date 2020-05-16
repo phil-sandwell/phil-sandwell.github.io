@@ -1,1 +1,1 @@
-# Welome to philsandwell.github.io
+# Welcome to philsandwell.github.io
