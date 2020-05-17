@@ -1,8 +1,7 @@
 ---
 layout: page
-#title: Research
+title: Research
 permalink: /research/
 ---
-# Research
 
 Research test page.
