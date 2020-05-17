@@ -4,5 +4,4 @@
 
 layout: home
 ---
-# Test
 Test of content on the homepage of the website.
