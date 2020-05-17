@@ -6,5 +6,4 @@ layout: home
 #layout: page
 #title: Welcome
 ---
-#Welcome
 Test of content on the homepage of the website.
