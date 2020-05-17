@@ -23,7 +23,7 @@ email: philip.sandwell@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Dr Philip Sandwell is a researcher and consultant specialising in energy access and rural electrification in developing countries.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "phil-sandwell.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" #"phil-sandwell.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 linkedin_username: philip-sandwell
 github_username:  phil-sandwell
