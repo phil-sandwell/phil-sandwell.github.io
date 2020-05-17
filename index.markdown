@@ -6,6 +6,8 @@ layout: home
 #layout: page
 #title: Welcome
 ---
-# Welcome
+<header class="post-header">
+  <h1 class="post-title">Welcome</h1>
+</header>
 
 Test of content on the homepage of the website.
