@@ -18,7 +18,7 @@ Please get in touch with Philip if you would like to discuss undertaking a stude
 
 * *Solar microgrids for rural development in the Brazilian semi-arid: Case Study of Remanso, Bahia*, Paloma Gallegos Alvarenga, expected graduation September 2020. Co-supervisor with Sheridan Few, Grantham Institute.
 
-* *Energy system modelling for vehicle-integrated solar photovoltaics in London*, George Barron, expected graduation September 2020. Co-supervisor with Oytun Babacan, Grantham Institute.
+* *Energy system modelling for vehicle-integrated solar photovoltaics in London*, George Barron, expected graduation September 2020. Co-supervisor with Oytun Babacan, Grantham Institute. **Eden Renewables**
 
 <h3> Graduated </h3>
 
