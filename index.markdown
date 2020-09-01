@@ -10,6 +10,6 @@ layout: home
   <h1 class="post-title">Welcome</h1>
 </header>
 
-Dr Philip Sandwell is a researcher and consultant specialising in energy access in developing countries focusing on the potential of renewable technologies to provide affordable, reliable and sustainable electricity for domestic, productive, institutional and healthcare applications. His work spans topics such as electricity demand estimation, technological performance of solar PV and battery storage, integration with other generation technologies as part of hybrid systems, and analysing their impact in terms of cost, CO2 mitigation potential and service quality.
+Dr Philip Sandwell is a researcher and consultant specialising in sustainable development. His work focuses on providing solutions in rural and humanitarian settings in developing countries in Sub-Saharan Africa, South Asia, and South America by working directly with communities, NGOs, international organisations, academia, policymakers and the private sector.
 
-This site presents an overview of his work and research, information about open-source projects, and other useful links that he hopes you will find useful and interesting for your own projects. 
+This site presents an overview of his work and research, information about selected projects, and useful links and resources.
